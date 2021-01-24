@@ -14,8 +14,8 @@ UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
 *.log
-log.txt
-npm-debug.log*
+frontend/log.txt
+frontend/npm-debug.log*
 
 /.idea
 /.ionic
@@ -23,9 +23,9 @@ npm-debug.log*
 /.sourcemaps
 /.versions
 /.vscode
-/coverage
-/dist
-/node_modules
-/platforms
-/plugins
-/www
+frontend/coverage
+frontend/dist
+frontend/node_modules
+frontend/platforms
+frontend/plugins
+frontend/www
