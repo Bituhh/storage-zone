@@ -1,0 +1,7 @@
+{
+  "name": "storage-zone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
